@@ -119,7 +119,7 @@ internal class Program
 // Creates a robot command record (a new reference type introduced in C# 9)
 public record RobotCommand(string Name, bool IsMoveCommand, int Id);
 
-// Creates a map record
+// Creates a map record with a name and size (single interger as the map is square)
 record RobotMap(string Name, int size)
 {
     // Checks if a coordinate is on the map
