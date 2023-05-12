@@ -1,3 +1,9 @@
+// SIT331 Full Stack Development: Secure Backend Services
+// Task - Robot API Prototype
+// Andrew Belcher - 222 390 295
+// The task was to create a moon robot simulation application that simulates a moon robot moving on a square map of dimensions N x N. 
+// It was a requirement to create a minimal API with ASP.NET Core from a list of required endpoints.
+
 internal class Program
 {
     private static void Main(string[] args)
