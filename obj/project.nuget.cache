@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "14PccTHgjd9nyDJytfELek1krh6dqQ4OrHvep8AcjfvfYN9O+emkl5BpkY8fQQFPpuWUojPFoPQ1poAu02686g==",
+  "success": true,
+  "projectFilePath": "/Users/andrewbelcher/Library/CloudStorage/OneDrive-Personal/Documents/Visual Studio Code/Back End Dev/robot-api/robot-api.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewbelcher/.nuget/packages/microsoft.aspnetcore.openapi/7.0.4/microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/andrewbelcher/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
